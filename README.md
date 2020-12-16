@@ -1,5 +1,5 @@
 # Hi, I'm Walid 👋
-<hr/>
+
 
 - 🔭 I’m currently working on an E-commerce platform to sell old school notes
 - 🌱 I’m currently learning React Native
@@ -10,7 +10,7 @@
 
 
 # Lets Connect
-<hr/>
+
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/walid-younis-2025/">
 <img src = /bluelink.png width="60px"/>
   </a>
