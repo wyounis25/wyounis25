@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on an E-commerce platform to sell old school notes
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Brain.js
 - 👯 I’m looking to collaborate on MERN projects
 - 💬 Ask me about the brain...
 - 📫 How to reach me: walid.younis.25@gmail.com
