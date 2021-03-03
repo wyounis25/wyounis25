@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I've been as close as 200 miles from the North Pole! 🥶 
 
 ## Tools
-
+<img src = /bluelink.png width="60px"/>
 # Lets Connect
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/walid-younis-2025/">
